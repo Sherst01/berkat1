@@ -149,3 +149,8 @@ main {
     text-shadow: 1px 1px #008a8a;
     margin-top: 30px;
 }
+
+.text:active {
+    color: black;
+}
+
